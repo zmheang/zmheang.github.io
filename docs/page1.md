@@ -1,3 +1,3 @@
 ## page1
 
-[跳转page2](https://github.com/zmheang/docs/page2)
+[跳转page2](https://zmheang.github.io/docs/page2)
